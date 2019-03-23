@@ -1,2 +1,2 @@
 # Ivan-js-dev-env
-JavaScript Development Environment from Pluralsight Course with Cory House
+JavaScript Development Environment with Cory House from Pluralsight Course
